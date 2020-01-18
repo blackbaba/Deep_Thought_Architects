@@ -232,7 +232,7 @@ header nav li {
   margin: 20px 0;
 }
 .packages .grid li p {
-  font-size: 18px;
+  font-size: 16px;
   text-align: justify;
   margin: 0 auto;
 }
@@ -253,7 +253,7 @@ header nav li {
 
 @media (max-width: 800px) {
   .testimonials .quote {
-    font-size: 18px;
+    font-size: 16px;
     margin: 15px 0;
   }
 
