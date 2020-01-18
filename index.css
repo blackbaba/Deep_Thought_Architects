@@ -229,9 +229,8 @@ header nav li {
 }
 .packages .grid li p {
   font-size: 16px;
-  width: 90%;
-  text-align: left;
-  margin: 10px auto;
+  text-align: justify;
+  margin: 0 auto;
 }
 @media (max-width: 800px) {
   .packages .grid li {
