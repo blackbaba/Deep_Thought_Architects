@@ -219,17 +219,20 @@ header nav li {
   text-align: center;
 }
 
+.packages p {
+  font-size: 20px;
+}
+
 .packages .grid li i {
   color: #8c9eff;
 }
 
 .packages .grid li h4 {
-  font-size: 24px;
+  font-size: 20px;
   margin: 20px 0;
 }
 .packages .grid li p {
-  text-indent: 30px;
-  font-size: 16px;
+  font-size: 18px;
   text-align: justify;
   margin: 0 auto;
 }
@@ -245,6 +248,7 @@ header nav li {
   font-weight: 300;
   line-height: 1.5;
   margin: 40px 0 25px;
+  text-align: justify;
 }
 
 @media (max-width: 800px) {
